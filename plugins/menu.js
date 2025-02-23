@@ -42,7 +42,7 @@ cmd(_0x2695f7, async (_0x59cc07, _0x2f7916, _0x140d96, {
       url: _0xec95bf
     };
     const _0x3a6e80 = {
-      "caption": "\n🤩 *𝙃𝙀𝙇𝙇𝙊𝙒* " + _0x4fd6ff + "\n> 🌀 *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀsɪᴛʜᴀ-ᴍᴅ* 🌀\n\n╭──────────────────━┈⊷\n│◦ ✗🤖ʙᴏᴛ ɴᴀᴍᴇ : *ᴀsɪᴛʜᴀ-ᴍᴅ™*\n│◦ ✗👤ᴏᴡɴᴇʀ ɴᴀᴍᴇ : *ᴀsɪᴛʜᴀ*\n│◦ ✗☎️ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : \n│◦ ✗ *94743381623*\n│◦ ✗⏰ᴜᴘᴛɪᴍᴇ : " + runtime(process.uptime()) + "\n│◦ ✗💾ʀᴀᴍ : " + (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) + "MB / " + Math.round(require("os").totalmem / 1024 / 1024) + "MB\n│◦ ✗💫ᴘʀᴇғɪx : " + _0x581823 + "\n╰──────────────────━┈⊷\n",
+      "caption": "\n👋 *ԋҽʅʅσ* " + _0x4fd6ff + "\n> 🌿 *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜰʀᴇꜱʜʟɪɴᴋ-ᴍᴅ* 🌿\n\n╭──────────────────━┈⊷\n│◦ ✗🤖ʙᴏᴛ ɴᴀᴍᴇ : *ꜰʀᴇꜱʜʟɪɴᴋ-ᴍᴅ*\n│◦ ✗👤ᴏᴡɴᴇʀ ɴᴀᴍᴇ : *ᴘᴀɴᴅᴀ_ᴍᴏᴅᴢ*\n│◦ ✗☎️ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : \n│◦ ✗ *94761634482*\n│◦ ✗📟ᴜᴘᴛɪᴍᴇ : " + runtime(process.uptime()) + "\n│◦ ✗💾ʀᴀᴍ : " + (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) + "MB / " + Math.round(require("os").totalmem / 1024 / 1024) + "MB\n│◦ ✗💫ᴘʀᴇғɪx : " + _0x581823 + "\n╰──────────────────━┈⊷\n",
       "image": _0x35cfa7,
       "footer": _0x2d9f0a,
       "title": '',
