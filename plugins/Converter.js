@@ -276,7 +276,7 @@ cmd(_0x42e937, async (_0x5dc7bd, _0x50ac99, _0x4af521, {
     };
     const _0x4162b0 = {
       image: _0x37e591,
-      caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
     };
     const _0x409edc = {
       quoted: _0x50ac99
@@ -542,7 +542,7 @@ cmd(_0x5f3940, async (_0x5cc76e, _0x545232, _0x3b5a5a, {
       await fs.promises.writeFile(_0x5628b8, _0x5eb532);
       const _0x41ce81 = await _0x247044(_0x5628b8);
       console.log(_0x41ce81);
-      await _0x37dc71("🌐 URL Generated: \n" + _0x41ce81.result.url + "\n\n*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*");
+      await _0x37dc71("🌐 URL Generated: \n" + _0x41ce81.result.url + "\n\n*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*");
       await fs.promises.unlink(_0x5628b8);
     } else {
       _0x37dc71("⚠️ Please reply to an image message.");
@@ -649,7 +649,7 @@ cmd(_0x22d258, async (_0xc8d3f, _0x14abb3, _0x12d96c, {
     const _0x6362b = "https://api.mymemory.translated.net/get?q=" + encodeURIComponent(_0x4be12d) + "&langpair=en|" + _0x1837e8;
     const _0x30cf93 = await axios.get(_0x6362b);
     const _0x33c0e8 = _0x30cf93.data.responseData.translatedText;
-    const _0x208d13 = "\n🌍 *Translation* 🌍\n\n🔤 *Original*: " + _0x4be12d + "\n🔠 *Translated*: " + _0x33c0e8 + "\n🌐 *Language*: " + _0x1837e8.toUpperCase() + "\n\n*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*";
+    const _0x208d13 = "\n🌍 *Translation* 🌍\n\n🔤 *Original*: " + _0x4be12d + "\n🔠 *Translated*: " + _0x33c0e8 + "\n🌐 *Language*: " + _0x1837e8.toUpperCase() + "\n\n*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*";
     return _0x151585(_0x208d13);
   } catch (_0x3d3892) {
     console.log(_0x3d3892);
@@ -796,7 +796,7 @@ cmd(_0x1f8ffe, async (_0x3a5cf7, _0x55ea5e, _0x417628, {
     const _0x4aa5ea = {
       video: _0x329180,
       gifPlayback: true,
-      caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
     };
     const _0x370a2e = {
       quoted: _0x55ea5e
@@ -850,7 +850,7 @@ cmd(_0x531068, async (_0x335558, _0x483a75, _0x1b110a, {
       let _0x30f098 = await Upscale(_0x2e46a4);
       const _0x24c891 = {
         image: _0x30f098,
-        caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+        caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
       };
       const _0x1e06a1 = {
         quoted: _0x483a75
